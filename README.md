@@ -495,13 +495,13 @@ ErrorResponse
 Clone Repository
 
 ```
-git clone https://github.com/abhiramaab/logistics-shipment-tracking-system.git
+git clone https://github.com/abhiramaab/logistics-and-shipments-trackingsystem.git
 ```
 
 Go to project directory
 
 ```
-cd logistics-shipment-tracking-system
+cd logistics-and-shipments-trackingsystem
 ```
 
 Configure MySQL
